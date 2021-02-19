@@ -9,3 +9,4 @@ Searching for Internships on a consistent basis can be quite time-consuming and 
 Only Works for Canadian Cities Right Now<br/>
 I am Working to add Capabilities to Browse Global Cities as Well
 
+![Demo of GUI](/Desktop/gui.jpg)
